@@ -1,0 +1,51 @@
+/* === GOOGLE FONT IMPORTS === */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=IBM+Plex+Serif:wght@400;700&display=swap');
+
+:root {
+  /* === FONT FAMILIES === */
+  --font-ui: 'Inter', sans-serif;          /* For UI, headers, buttons */
+  --font-story: 'IBM Plex Serif', serif;   /* For storytelling content */
+
+  
+  /*--light-color: #c3e0ea;*/
+
+  /* === BRAND COLORS FROM LOGO === */
+  --navy-blue: #021e45;
+  --color-purple: #a6539b;
+  --color-sky: #81abdd;
+  --color-cyan-light: #c3e0ea;
+  --color-brown: #8d6d4e;
+  --color-beige: #bea88f;
+
+  /* === ADDITIONAL COLORS === */
+  --color-highlight: #f0c674;
+  --color-success: #57c1a5;
+  --color-warning: #d77a61;
+
+  /* === GENERAL UI COLORS === */
+  --color-bg: #101b2c;          /* App background (dark mode) */
+  --color-card: #16243a;        /* Card or section background */
+  --color-border: #2c3e50;      /* Border/divider lines */
+
+  /* === TEXT COLORS === */
+  --text-primary: #e8e9eb;      /* Main readable text on dark bg */
+  --text-secondary: #b5b8be;    /* Subheadings, metadata */
+  --text-muted: #7a8a99;        /* Less important or disabled text */
+  --text-inverted: #0a0b0c;     /* Use for dark text on light backgrounds */
+
+  /* === BORDER RADIUS === */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+
+  /* === SPACING UNITS === */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+
+  /* === TRANSITIONS === */
+  --transition-fast: 0.2s ease;
+  --transition-slow: 0.4s ease;
+}

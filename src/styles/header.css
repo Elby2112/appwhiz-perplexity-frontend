@@ -1,0 +1,92 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Header styling */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #120037; 
+  color: #e6daff; 
+  padding: 0.8rem 2rem;
+  width: 100%;
+  box-sizing: border-box;
+  transition: background-color 0.3s ease;
+}
+
+/* Left side (icon) */
+.header-left .icon {
+  font-size: 2rem;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.header-left .icon:hover {
+  transform: rotate(360deg);
+}
+
+/* Navigation menu */
+.header-right nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.header-right nav ul li {
+  font-size: 1.3rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  position: relative;
+}
+
+.header-right nav ul li a {
+  color: #d1a6f9; 
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.header-right nav ul li a:hover {
+  color: #a96ecf; 
+  transform: translateY(-2px);
+}
+
+/* Logo fade-in animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem;
+  }
+
+  .header-right nav ul {
+    flex-direction: column;
+    gap: 1rem;
+    padding-left: 0;
+    width: 100%;
+  }
+
+  .header-right nav ul li {
+    width: 100%;
+  }
+
+  .header-right nav ul li a {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 0;
+  }
+}
