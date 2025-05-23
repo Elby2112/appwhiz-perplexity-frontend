@@ -4,6 +4,20 @@ AppWhiz is an interactive AI-driven game that challenges users to guess real-wor
 
 ---
 ## Table of Contents
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [Examples](#examples)
+- [Overview](#overview)
+- [Frontend Setup](#frontend-setup)
+  - [Prerequisites](#prerequisites)
+  - [Run Locally (Development)](#run-locally-development)
+  - [Build and Run with Docker](#build-and-run-with-docker)
+- [Shared Instructions](#shared-instructions)
+- [How to Use](#how-to-use)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [License](#license)
+- [Contact](#contact)
 
 ## Frontend
 The frontend is designed to offer a clean, intuitive, and engaging interface. Built using React and Tailwind CSS, it provides a responsive and visually appealing user experience. 
