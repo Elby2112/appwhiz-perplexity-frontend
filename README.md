@@ -20,7 +20,7 @@ Backend: [appwhiz-perplexity-backend](https://github.com/Elby2112/appwhiz-perple
 
 ## Examples
 
-##Overview
+## Overview
 - Built with React and Tailwind CSS
 - Responsive design, clean UI, and intuitive interaction
 - Dockerized for easy build and deployment
@@ -33,7 +33,8 @@ Backend: [appwhiz-perplexity-backend](https://github.com/Elby2112/appwhiz-perple
 - Git
 
 1. Clone the repository 
-<pre> git clone https://github.com/Elby2112/appwhiz-perplexity-frontend.git
+<pre> 
+git clone https://github.com/Elby2112/appwhiz-perplexity-frontend.git
 cd appwhiz-perplexity-frontend</pre>
 
 2. Install dependencies
@@ -96,3 +97,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 If you have questions or feedback, please open an issue or contact the maintainer.
+
+
