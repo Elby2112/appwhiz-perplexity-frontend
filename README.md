@@ -20,6 +20,25 @@ Backend: [appwhiz-perplexity-backend](https://github.com/Elby2112/appwhiz-perple
 
 ## Examples
 
+![Screenshot 2025-05-24 000831](https://github.com/user-attachments/assets/2425ddc7-e7eb-4856-9639-ccffeb04dbc5)
+*Home Page*
+
+![Screenshot 2025-05-24 000915](https://github.com/user-attachments/assets/18505168-aa0e-40df-b0a3-269c6c87839e)
+
+*Customize your Experience*
+
+![Screenshot 2025-05-24 001532](https://github.com/user-attachments/assets/bbc189fe-6cbc-46cf-9841-c0c23d21a002)
+
+*Story is Generated with Preplexity Sonar API, Can you guess the App!*
+
+![Screenshot 2025-05-24 001532](https://github.com/user-attachments/assets/bb9a177f-6120-4459-b500-ebd894ede3de)
+
+*If you're stuck, use the Hints!*
+
+![bereal](https://github.com/user-attachments/assets/e6ce6e0f-a7a6-4da3-a51a-03fe4e46b971)
+
+*And Finally submit your guess!, in this example its BeReal, do you know the App ?*
+
 ## Overview
 - Built with React and Tailwind CSS
 - Responsive design, clean UI, and intuitive interaction
@@ -97,5 +116,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 If you have questions or feedback, please open an issue or contact the maintainer.
+
+![#ffeecd (2)](https://github.com/user-attachments/assets/ca903407-a161-4a2f-9775-131025cdbefc)
 
 
