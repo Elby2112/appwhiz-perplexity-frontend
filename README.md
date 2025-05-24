@@ -21,6 +21,7 @@ AppWhiz is an interactive AI-driven game that challenges users to guess real-wor
 
 ## Frontend
 The frontend is designed to offer a clean, intuitive, and engaging interface. Built using React and Tailwind CSS, it provides a responsive and visually appealing user experience. 
+
 Key Features:
 - **Story Generation**: AI-generated narratives based on selected genres and difficulty levels.
 - **Hint System**: Up to three hints per story to assist users in making accurate guesses.
