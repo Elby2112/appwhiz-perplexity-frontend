@@ -66,8 +66,7 @@ Backend: [appwhiz-perplexity-backend](https://github.com/Elby2112/appwhiz-perple
 - Git
 
 1. Clone the repository 
-<pre> 
-git clone https://github.com/Elby2112/appwhiz-perplexity-frontend.git
+<pre>git clone https://github.com/Elby2112/appwhiz-perplexity-frontend.git
 cd appwhiz-perplexity-frontend</pre>
 
 2. Install dependencies
